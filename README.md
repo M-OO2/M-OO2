@@ -9,4 +9,9 @@
 <p align="center"> $\textcolor{#467d82}{\text{I also apologize if I act cold, I feel as though I have to act stern to be heard.}}$ $\textcolor{#467d82}{\text{with that in mind, please don't randomly approach me if we aren't close.}}$
 
 
-<p align="center"> $\textcolor{#d4c791}{\text{"Maybe my name could also be known— that I helped return good to the people, and restored greatness to rome!"}}$
+<p align="center"> $\textcolor{#91c2ca}{\text{"Maybe my name could also be known— that I helped return good to the people, and restored greatness to rome!"}}$
+
+<p align="center">   
+<img width="1500" height="314" alt="unnamed" src="https://github.com/user-attachments/assets/7c77ff7c-a865-4516-b2b0-5d5f509e1c91" />
+
+<p align="center"> $\textcolor{#e3e3ff}{\text{If I don't associate with you, keep my name out of your mouth. Thank you!}}$
