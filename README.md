@@ -1,5 +1,5 @@
 
-<p align="center"> $\textcolor{#91c2ca}{\text{hellooOOO!!! my name is astro or sol, but, you might know me as MANY different names from different eras. }}$
+<p align="center"> $\textcolor{#91c2ca}{\text{hellooOOO!!! my name is astro, sol, or curly, but, you might know me as MANY different names from different eras. }}$
 
 <p align="center"> $\textcolor{#91c2ca}{\text{do not ever call me by those names.}}$ $\textcolor{#fbedb2}{\text{✦}}$ $\textcolor{#91c2ca}{\text{mentally unstable. iwec}}$
 
