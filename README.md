@@ -13,7 +13,8 @@
 
 <p align="center">   
 <img width="1500" height="314" alt="unnamed" src="https://github.com/user-attachments/assets/7c77ff7c-a865-4516-b2b0-5d5f509e1c91" />
+<p align="center"> $\textcolor{#7eab41}{\text{♡ㅤㅤ@spring-feverㅤㅤ+ㅤㅤ@L—OO1}}$
 
 <p align="center"> $\textcolor{#e3e3ff}{\text{If I don't associate with you, keep my name out of your mouth. Thank you!}}$
-<p align="center"> $\textcolor{#e3e3ff}{\text{I'm talking about you, solros and associates.}}$
+
 
