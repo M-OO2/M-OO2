@@ -7,6 +7,8 @@
 <p align="center"> $\textcolor{#e3e6ff}{\text{hello! my name is astro or sol. i absolutely do not mind any nicknames, and might prefer them.}}$
 $\textcolor{#e3e6ff}{\text{please! do not approach me randomly, I cannot guarantee a outgoing reaction. An extention of my profile; I do not do well outside of my comfort group, }}$
 $\textcolor{#e3e6ff}{\text{and I can be closed off/awkward during interactions if I do not know you well.}}$
+<p align="center"> $\textcolor{#e3e6ff}{\text{please, if you have issues with me, confront me. Of course, I will panic, that is how I am, but don't bottle anything up.}}$
+
 
 
 
