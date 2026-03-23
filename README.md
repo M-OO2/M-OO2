@@ -1,4 +1,4 @@
-
+<p align="center"> $\textcolor{#ff1700}{\text{stop sending me darkship messages. its not happening.}}$
 <img width="1536" height="434" alt="tumblr_8e33e27ba2137a546c46fcd5312ea6dc_20cd74fb_2048" src="https://github.com/user-attachments/assets/4bb64c52-19b0-44f1-ae96-ac08c34e2d8a" />
 
 
