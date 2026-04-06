@@ -17,5 +17,10 @@ $\textcolor{#e3e6ff}{\text{and I can be closed off/awkward during interactions i
 <p align="center"> $\textcolor{#86bb28}{\text{♡ㅤㅤ@spring—feverㅤ+ㅤ@L—001}}$
 <p align="center"> $\textcolor{#86bb28}{\text{ㅤㅤㅤㅤㅤmy darling!}}$
 
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=lu4zv48uhj7l6v9918m5cgs24&cover_image=true&theme=natemoo-re&show_offline=false&background_color=437484&interchange=false&profanity=false&bar_color=47a3c2&bar_color_cover=false">
+  </a>
+</p>
 
 <img width="1536" height="245" alt="tumblr_82f694f120245a081ce263e504d56190_244d8cd1_2048" src="https://github.com/user-attachments/assets/1785011e-2c60-4f7d-bc5d-0de6635675dd" />
